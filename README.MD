@@ -5,9 +5,8 @@
 
 ### How to use turtle in your python IDE
 
-''' 
+[x]
 import turtle as t 
-'''
 
 ## Contents
 
