@@ -12,6 +12,9 @@
 - [Heart shape (in any color)](https://github.com/nitin30kumar/turtle-projects/blob/main/heart/heart_in_any_color.py)
 - [Pikachu](https://github.com/nitin30kumar/turtle-projects/blob/main/pikachu/pikachu-using-turtle.py)
 
+
+* * *
+
 ### How to run the projects
 > Just copy the code and paste in your python IDE and run the code  
 > No need to install any module. It's by-default installed with python.
