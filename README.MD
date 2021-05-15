@@ -4,7 +4,7 @@
 ## Contents
 
 - [Heart shape (in any color)](https://github.com/nitin30kumar/turtle-projects/blob/main/heart/heart_in_any_color.py)
-- [Pikachu]()
+- [Pikachu](https://github.com/nitin30kumar/turtle-projects/blob/main/pikachu/pikachu-using-turtle.py)
 
 
 > New projects are added regularly. So keep visiting and for your convenience, you can fork it.
