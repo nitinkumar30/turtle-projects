@@ -3,7 +3,7 @@
 
 > How to use turtle in your python IDE
 
-''' import turtle as t '''
+' import turtle as t '
 
 ## Contents
 
