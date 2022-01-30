@@ -5,17 +5,27 @@
 
 ### How to use turtle in your python IDE
 
-- [x] import turtle as t 
+- [x] ```import turtle as t```  
 
 ## Contents
 
-- [Heart shape (in any color)](https://github.com/nitin30kumar/turtle-projects/blob/main/heart/heart_in_any_color.py)
-- [Pikachu](https://github.com/nitin30kumar/turtle-projects/blob/main/pikachu/pikachu-using-turtle.py)
-- [Rose](https://github.com/nitin30kumar/turtle-projects/blob/main/rose/rose-using-turtle.py)
-- [Google Logo](https://github.com/nitin30kumar/turtle-projects/blob/main/Google%20logo/googlelogo.py)
-- [Python Logo](https://github.com/nitin30kumar/turtle-projects/blob/main/Python%20Logo/pythonlogo.py)
-- [Mother Earth](https://github.com/nitin30kumar/turtle-projects/blob/main/Mother%20Earth/earth.py)
-- [Ironman](https://github.com/nitin30kumar/turtle-projects/blob/main/Ironman%20Head/ironman.py)
+- [Android Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/android-logo.py)  
+- [Batman Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/batman-logo.py)
+- [Doraemon](https://github.com/nitinkumar30/turtle-projects/blob/main/doraemon.py)
+- [Mother Earth](https://github.com/nitinkumar30/turtle-projects/blob/main/earth-1.py)
+- [GitHub Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/github-logo.py)
+- [Git Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/git-logo.py)
+- [Google Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/google-logo.py)
+- [Ironman Head](https://github.com/nitinkumar30/turtle-projects/blob/main/ironman-logo.py)
+- [Ninja Star](https://github.com/nitinkumar30/turtle-projects/blob/main/ninja-star.py)
+- [Penguin](https://github.com/nitinkumar30/turtle-projects/blob/main/penguin.py)
+- [Pikachu](https://github.com/nitinkumar30/turtle-projects/blob/main/pikachu.py)
+- [Python Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/python-logo.py)
+- [Rog Game Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/rog-game-logo.py)
+- [Shinchan](https://github.com/nitinkumar30/turtle-projects/blob/main/shichan.py)
+- [Star](https://github.com/nitinkumar30/turtle-projects/blob/main/star-1.py)
+- [Transformer](https://github.com/nitinkumar30/turtle-projects/blob/main/transformer.py)
+- [Turtle Race Game](https://github.com/nitinkumar30/turtle-projects/blob/main/turtle-race-game.py) (Actually a simple illustration of a turtle game using turtle)
 
 
 * * *
