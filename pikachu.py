@@ -530,7 +530,6 @@ class Cartoon:
 
 
 def main():
-    print('Painting the Cartoon... ')
     turtle.screensize(800, 600)
     turtle.title('Cartoon')
     cartoon = Cartoon()
