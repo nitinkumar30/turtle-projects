@@ -26,6 +26,12 @@
 - [Star](https://github.com/nitinkumar30/turtle-projects/blob/main/star-1.py)
 - [Transformer](https://github.com/nitinkumar30/turtle-projects/blob/main/transformer.py)
 - [Turtle Race Game](https://github.com/nitinkumar30/turtle-projects/blob/main/turtle-race-game.py) (Actually a simple illustration of a turtle game using turtle)
+- [Windows Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/windows-logo.py)
+- [Netflix Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/netflix-logo.py)
+- [Superman Logo](https://github.com/nitinkumar30/turtle-projects/blob/main/superman-logo.py)
+- [Among Us character](https://github.com/nitinkumar30/turtle-projects/blob/main/among-us-character.py)
+- [Indian Flag color design](https://github.com/nitinkumar30/turtle-projects/blob/main/indian-flag-colors.py)
+- [Side Look emoji](https://github.com/nitinkumar30/turtle-projects/blob/main/side-look-emoji.py)
 
 
 * * *
